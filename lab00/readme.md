@@ -1,4 +1,4 @@
-# **Process**
+ **Process**
 - Popular repos were searched on github based on stars.
 - The repos were cloned to a local repository.
 - The local files were checked if they were written in java by inspecting the filename for ".java" extention.
@@ -10,3 +10,8 @@
 - Total collected methods = 25000
 - Total training methods = 20000
 - Total test methods = 50000
+- Mean tokenized code length = 69.07648
+- Max tokenized code length = 5077
+- Min tokenized code length = 5
+- Mean method starting postion = 297.25448
+- Mean method ending position = 309.17032
